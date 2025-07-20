@@ -313,7 +313,7 @@ body {
   height: var(--h);
   border-top-right-radius: var(--h);
   border-bottom-left-radius: var(--h);
-  background-image: linear-gradient(to top, rgba(20, 117, 122, 0.4), #8B0000);
+  background-image: linear-gradient(to top, rgba(111, 0, 0, 0.4), #8B0000);
 }
 .flower__line__leaf--1 {
   transform: rotate(70deg) rotateY(30deg);
@@ -393,7 +393,7 @@ body {
   animation-delay: 3.5s;
 }
 .flower__grass {
-  --c: #9915aa;
+  --c: #8B0000;
   --line-w: 1.5vmin;
   position: absolute;
   bottom: 12vmin;
@@ -609,7 +609,7 @@ body {
   width: 30vmin;
   height: 50vmin;
   border-top-left-radius: 100%;
-  border-left: 2vmin solid #780797;
+  border-left: 2vmin solid #8B0000;
   background-image: linear-gradient(
     to bottom,
     transparent,
@@ -798,7 +798,7 @@ body {
   height: 50vmin;
   border-top-left-radius: 100%;
   border-left: 2vmin solid #6c0797;
-  -webkit-mask-image: linear-gradient(to top, transparent 25%, #750797 50%);
+  -webkit-mask-image: linear-gradient(to top, transparent 25%, #8B0000 50%);
   position: relative;
   z-index: 1;
 }
