@@ -672,7 +672,7 @@ body {
   background-image: linear-gradient(
     to top,
     transparent,
-    #6c0797,
+    #600000,
     transparent 100%
   );
   position: relative;
@@ -797,7 +797,15 @@ body {
   width: 30vmin;
   height: 50vmin;
   border-top-left-radius: 100%;
-  border-left: 2vmin solid #6c0797;
+  border-left: 2vmin solid #.flower__g-fr .leaf {
+  width: 30vmin;
+  height: 50vmin;
+  border-top-left-radius: 100%;
+  border-left: 2vmin solid #600000;
+  -webkit-mask-image: linear-gradient(to top, transparent 25%, #8B0000 50%);
+  position: relative;
+  z-index: 1;
+};
   -webkit-mask-image: linear-gradient(to top, transparent 25%, #8B0000 50%);
   position: relative;
   z-index: 1;
