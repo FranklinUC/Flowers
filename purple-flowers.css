@@ -915,7 +915,7 @@ body {
   -webkit-mask-image: linear-gradient(
     to top,
     transparent 40%,
-    #670797 80%
+    #5C0000 80%
   ) !important;
 }
 .long-g--1 .leaf--1 {
@@ -936,7 +936,7 @@ body {
   -webkit-mask-image: linear-gradient(
     to top,
     transparent 50%,
-    #730797 80%
+    #6B0000 80%
   ) !important;
 }
 .long-g--2 .leaf--1,
@@ -965,7 +965,7 @@ body {
   -webkit-mask-image: linear-gradient(
     to top,
     transparent 50%,
-    #710797 80%
+    #680000 80%
   ) !important;
 }
 .long-g--5 {
